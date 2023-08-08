@@ -30,3 +30,16 @@
 //     document.getElementById("date").innerHTML = "It's a Fun day " + "<br>" + "Because today is : " + d;
 // }else {
 //     document.getElementById("date").innerHTML = "working day : "+ d;
+
+
+
+//************ Question 5 ************//
+
+// var date = new Date();
+// var date2 = new Date("Aug 16, 2023");
+
+// if (date < date2){
+//     document.getElementById("date").innerHTML = "First fifteen days of the month";
+// }else{
+//     document.getElementById("date").innerHTML ="Last days of the month"; 
+// }

@@ -11,3 +11,12 @@
 // var month = dateNow.getMonth();
 // var monthes = monthNames[month];
 // alert("Current Month : " + monthes);
+
+
+//************ Question 3 ************// 
+
+// var dayNames = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"];
+// var dateNow = new Date();
+// var toDay = dateNow.getDay();
+// var nameOfToday = dayNames[toDay];
+// document.getElementById("date").innerHTML = "Today is : " + nameOfToday.slice(0,3);

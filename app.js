@@ -20,3 +20,13 @@
 // var toDay = dateNow.getDay();
 // var nameOfToday = dayNames[toDay];
 // document.getElementById("date").innerHTML = "Today is : " + nameOfToday.slice(0,3);
+
+
+//************ Question 4 ************//
+
+// var days = ["sunday", "monday", "tuesday", "wednesday", "thursday", "friday", "saturday"];
+// var d =  prompt("enter a day.");
+// if (d.toLowerCase() === days[6] || d.toLowerCase() === days[0]){
+//     document.getElementById("date").innerHTML = "It's a Fun day " + "<br>" + "Because today is : " + d;
+// }else {
+//     document.getElementById("date").innerHTML = "working day : "+ d;

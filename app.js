@@ -43,3 +43,16 @@
 // }else{
 //     document.getElementById("date").innerHTML ="Last days of the month"; 
 // }
+
+
+//************ Question 6 ************//
+
+// var today = new Date();
+// document.getElementById("date").innerHTML = "Current date : " + today + "<br>" ;
+
+// var startedSeconds = new Date("jan 1,1970");
+// var milliSeconds =  today - startedSeconds ;
+// document.getElementById("date1").innerHTML = "Elapsed milliseconds since january 1, 1970 : "+ milliSeconds + "<br>";
+
+// var seconds = milliSeconds / 60;
+// document.getElementById("date2").innerHTML = "Elapsed seconds since january 1, 1970 : " + seconds;

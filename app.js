@@ -120,3 +120,14 @@
 // d.setFullYear((d.getFullYear() - 100));
 // var date1 = document.getElementById("date1"); date1.innerHTML = "100 years Back,it was " + d;
 
+
+
+//************ Question 13 ************//
+
+// var userInp = +prompt("enter your age");
+// var d = new Date();
+// var d1 = d.getFullYear() - userInp;
+// console.log(d1);
+// var date = document.getElementById("date"); date.innerHTML = "Your Age is : " + userInp;
+// var date1 = document.getElementById("date1"); date1.innerHTML = " Your Birth Year is : " + d1;
+

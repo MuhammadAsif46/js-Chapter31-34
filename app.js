@@ -96,3 +96,17 @@
 
 // var date = document.getElementById("date")
 // date.innerHTML = "On Refrence date "+ todaydate + "<br/>"+ Math.floor((todaydate.getTime() - begDate.getTime()) / 1000) + " seconds had passed since beginning of 2023";
+
+
+
+//************ Question 11 ************//
+
+// var currentDate = new Date();
+// var date = document.getElementById("date") ; date.innerHTML = "current date : " + currentDate;
+// var oneHrAgo =  currentDate.getHours() - 1;
+
+// ////////
+
+// var date = new Date();
+// var str = date.toString();
+// var date1 = document.getElementById("date1"); date1.innerHTML ="1 hour ago,it was " + str.replace(str.slice(16,18),oneHrAgo);

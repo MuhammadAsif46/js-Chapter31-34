@@ -56,3 +56,16 @@
 
 // var seconds = milliSeconds / 60;
 // document.getElementById("date2").innerHTML = "Elapsed seconds since january 1, 1970 : " + seconds;
+
+
+
+//************ Question 7 ************//
+
+// var d = new Date();
+// console.log(d.getHours());
+
+// if(d.getHours() <= 12 ){
+//     alert("It`s AM");
+// }else{
+//     alert("It`s PM");
+// }

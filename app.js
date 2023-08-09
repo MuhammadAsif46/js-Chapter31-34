@@ -75,3 +75,14 @@
 
 // var laterDate = new Date("dec 31,2023");
 // var time = document.getElementById("date").innerHTML = "Later date : " + laterDate;
+
+
+
+//************ Question 9 ************//
+
+// var ramzan = new Date("mar 11, 2024");
+// var today = new Date()
+
+// var today1 =  ramzan.getTime() - today.getTime();
+// var today2 = today1 / (1000 * 60 * 60 * 24);
+// var date = document.getElementById("date").innerHTML =  Math.floor(today2)+" : days have passed since 1st Ramadan 2024" ;

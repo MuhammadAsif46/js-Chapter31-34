@@ -110,3 +110,13 @@
 // var date = new Date();
 // var str = date.toString();
 // var date1 = document.getElementById("date1"); date1.innerHTML ="1 hour ago,it was " + str.replace(str.slice(16,18),oneHrAgo);
+
+
+
+//************ Question 12 ************//
+
+// var d = new Date();
+// var date = document.getElementById("date"); date.innerHTML = "cureent date " + d;
+// d.setFullYear((d.getFullYear() - 100));
+// var date1 = document.getElementById("date1"); date1.innerHTML = "100 years Back,it was " + d;
+

@@ -131,3 +131,25 @@
 // var date = document.getElementById("date"); date.innerHTML = "Your Age is : " + userInp;
 // var date1 = document.getElementById("date1"); date1.innerHTML = " Your Birth Year is : " + d1;
 
+
+
+//************ Question 14 ************//
+    
+// var userName = prompt("enter your name");
+// var months = ["January", "Feburary", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"];
+// var date = new Date();
+// var currentMonth = months[date.getMonth()];
+// // console.log(currentMonth);
+// var units = +prompt("Number of units uses");
+// var chargesPerUnit = 16;
+// var latePaySurcharge = 350;
+// var amount = units * chargesPerUnit;
+
+// document.write("K-ELECTRIC BILL : <br/> <br/>");
+// document.write("UserName : " + userName + "<br/>");
+// document.write("Month : " + currentMonth + "<br/>");
+// document.write("Number of units : " + units + "<br/>");
+// document.write("Charges Per Unit : " + chargesPerUnit + "<br/>");
+// document.write("Net Amount Payable ( Within Due Date) : " + amount + "<br/>");
+// document.write("Late Payment SurCharges : " + latePaySurcharge + "<br/>");
+// document.write("Gross Amount Payable ( after Due Date) : " + (amount + latePaySurcharge) + "<br/>");

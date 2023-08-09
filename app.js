@@ -86,3 +86,13 @@
 // var today1 =  ramzan.getTime() - today.getTime();
 // var today2 = today1 / (1000 * 60 * 60 * 24);
 // var date = document.getElementById("date").innerHTML =  Math.floor(today2)+" : days have passed since 1st Ramadan 2024" ;
+
+
+
+//************ Question 10 ************//
+
+// var begDate = new Date("jan 1, 2023");
+// var todaydate = new Date();
+
+// var date = document.getElementById("date")
+// date.innerHTML = "On Refrence date "+ todaydate + "<br/>"+ Math.floor((todaydate.getTime() - begDate.getTime()) / 1000) + " seconds had passed since beginning of 2023";

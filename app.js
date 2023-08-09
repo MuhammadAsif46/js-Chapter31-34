@@ -69,3 +69,9 @@
 // }else{
 //     alert("It`s PM");
 // }
+
+
+//************ Question 8 ************//
+
+// var laterDate = new Date("dec 31,2023");
+// var time = document.getElementById("date").innerHTML = "Later date : " + laterDate;
